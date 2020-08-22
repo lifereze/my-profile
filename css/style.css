@@ -218,11 +218,13 @@ body {
   
   .logo {
     float: left;
+    
   }
   
   .logo img {
     width: 100px;
     height: 50px;
+    border-radius: 100%;
   }
   
   .responsive {
